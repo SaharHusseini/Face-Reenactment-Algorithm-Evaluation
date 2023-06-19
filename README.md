@@ -1,4 +1,5 @@
-# Face Reenactment Algorithm Evaluation
+# A 3D-ASSISTED FRAMEWORK TO EVALUATE THE QUALITY OF HEAD MOTION
+REPLICATION BY REENACTMENT DEEPFAKE GENERATORS
 
 To evaluate the generated frames of your face reenactment algorithm, please follow the instructions below:
 
